@@ -81,9 +81,11 @@ h4{
 
 .centerButtons {
     margin-top: 25px;
-    margin-left: 90px;
+    margin-left: 85px;
     box-shadow: 0px 0px 10px 1px #3f3e3e;
     text-align: left;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: medium;
 }
 
 .buttonBox {
@@ -95,6 +97,28 @@ h4{
     font-weight: 600;
     padding-left: 100px;
     padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.aboutUsButton {
+    margin-top: 25px;
+    margin-left: 30px;
+    box-shadow: 0px 0px 10px 1px #3f3e3e;
+    text-align: left;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: medium;
+}
+
+.learnMoreBox {
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: #805215;
+    color: aliceblue;
+    font-size: large;
+    font-weight: 600;
+    padding-left: 550px;
+    padding-right: 550px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
